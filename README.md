@@ -75,7 +75,7 @@ footer {
 </div>
 
 <footer>
-  &copy; 2026 Your App Name. All rights reserved.
+  &copy; 2026 Foundit App. All rights reserved.
 </footer>
 </body>
 </html>
